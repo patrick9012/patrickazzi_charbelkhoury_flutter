@@ -1,3 +1,8 @@
+Names:Charbel El Khoury
+      Patrick EL Azzi
+
+Project Description:
+
 Application Pages:
 The app is divided into several main screens that guide the user through their fitness journey. It starts with Login and Registration pages, where users can securely create an account or sign in using JWT-based authentication. After logging in, users reach the Home Dashboard, which serves as the main navigation hub. The Exercises page displays a list of available exercises with details that help users understand each movement. The Workouts page allows users to create, edit, and delete workout plans, each containing multiple exercises. Inside a workout, the Workout Details page shows the full routine structure. The Progress page visualizes workout history and performance using charts and statistics. Finally, the Profile page lets users update their personal information and upload a profile picture.
 
